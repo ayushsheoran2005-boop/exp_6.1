@@ -1,4 +1,4 @@
-# 23BCS13058_Harsh-Bhardwaj_Exp.6.1
+# 23BCS12647_Ayush_Exp.6.1
 
 ## 🔒 Title
 **Middleware Implementation for Logging and Bearer Token Authentication**
